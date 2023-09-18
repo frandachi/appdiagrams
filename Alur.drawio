@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T06:27:11.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2MsGoXIlju1P2eAce1cQ" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T06:28:09.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kaKDpVAl7WTEwqxIlDxm" version="21.6.1" type="github">
   <diagram name="Halaman-1" id="pKOk0u4qH1DM_huSJUp6">
-    <mxGraphModel dx="880" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,9 +128,6 @@
           <mxGeometry x="864" width="231" height="31" as="geometry">
             <mxRectangle width="231" height="31" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="W9zBKLREHovErChWhy3i-28" value="START" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="92" y="212" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9zBKLREHovErChWhy3i-29" value="1. Akses Aplikasi Mobile Smart Loan&lt;br&gt;2. Registrasi User&lt;br&gt;3. Mengajukan&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Permohonan Bank &lt;br&gt;Garansi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="50" y="316" width="190" height="124" as="geometry" />
