@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T11:09:47.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DVxoLf_0yJZ3ucx5VQ13" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T11:15:50.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Cr_xyDe33E45mWeJngwE" version="23.1.1" type="github">
   <diagram name="Halaman-1" id="64se9kTdfbIO6P_SXvsD">
-    <mxGraphModel dx="1435" dy="1381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,17 @@
         </mxCell>
         <mxCell id="z9q5Gfi1wUlusJ5m4mx--31" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="181.81" y="-343" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="z9q5Gfi1wUlusJ5m4mx--37" value="Arsitektur Aplikasi E-Form Bank Sumut" style="shape=table;startSize=74;container=1;collapsible=0;childLayout=tableLayout;fontSize=24;fontStyle=1;spacingTop=2;" vertex="1" parent="1">
+          <mxGeometry x="-264" y="-750" width="852" height="729" as="geometry" />
+        </mxCell>
+        <mxCell id="z9q5Gfi1wUlusJ5m4mx--38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="z9q5Gfi1wUlusJ5m4mx--37">
+          <mxGeometry y="74" width="852" height="655" as="geometry" />
+        </mxCell>
+        <mxCell id="z9q5Gfi1wUlusJ5m4mx--39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="z9q5Gfi1wUlusJ5m4mx--38">
+          <mxGeometry width="852" height="655" as="geometry">
+            <mxRectangle width="852" height="655" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
