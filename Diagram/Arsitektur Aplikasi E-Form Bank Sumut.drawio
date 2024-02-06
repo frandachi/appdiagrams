@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T11:03:28.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WLEVlqLih2j_zs03MoRs" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T11:07:32.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SOifBzJJgHm4OXWWynbD" version="23.1.1" type="github">
   <diagram name="Halaman-1" id="64se9kTdfbIO6P_SXvsD">
-    <mxGraphModel dx="1657" dy="1506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1435" dy="1381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="z9q5Gfi1wUlusJ5m4mx--9" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-91" y="-511" width="35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="z9q5Gfi1wUlusJ5m4mx--10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.03;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.97;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9q5Gfi1wUlusJ5m4mx--9" target="z9q5Gfi1wUlusJ5m4mx--9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z9q5Gfi1wUlusJ5m4mx--11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9q5Gfi1wUlusJ5m4mx--9" target="z9q5Gfi1wUlusJ5m4mx--9">
           <mxGeometry relative="1" as="geometry" />
@@ -69,6 +66,9 @@
         </mxCell>
         <mxCell id="z9q5Gfi1wUlusJ5m4mx--29" value="Storage Dokumen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="-477" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z9q5Gfi1wUlusJ5m4mx--31" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="181.81" y="-343" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
