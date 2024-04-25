@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T01:44:53.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NyGPcMKOQEnmSUbu_6Tl" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T02:31:36.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ro83R-k3jV56eT1bOrAQ" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,7 +117,7 @@
         <mxCell id="_EpccPnGnqP51AQdEMXO-31" value="Verifikasi Manual&lt;br&gt;oleh CS" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="405" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_EpccPnGnqP51AQdEMXO-33" value="Proses Realisasi Kartu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_EpccPnGnqP51AQdEMXO-33" value="Proses Realisasi Kartu&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Cetak Kartu&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Nasabah menerima&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;kartu&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="283.5" y="745" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFwen5s-5i4nCn-BDiwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFwen5s-5i4nCn-BDiwh-0" target="DFwen5s-5i4nCn-BDiwh-1" edge="1">
