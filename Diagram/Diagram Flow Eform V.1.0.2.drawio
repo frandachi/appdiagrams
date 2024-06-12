@@ -1,47 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T06:17:59.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="v9nmvgWjq_BjVVUK5gTh" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T06:39:43.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tm90A0qkGYGeL0kg2L15" version="24.4.6" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
+          <mxGeometry x="75" y="400" width="2000" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="155" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="608" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
+          <mxGeometry x="382" y="425" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="835" y="425" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="225" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="452" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="678" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="905" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Pendaftaran Rekening&lt;/h1&gt;&lt;p&gt;Pemohon mendaftar pembukaan rekening di web Disperindag&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="128" y="430" width="215" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Approval Pendaftaran Rekening&lt;/h1&gt;&lt;p&gt;Petugas Bank melakukan verifikasi data permohonan pembukaan rekening di web disperindag&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="190" width="215" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&amp;nbsp;Penarikan Data&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan penarikan data yang telah diapprove oleh petugas bank dari web disperindag ke aplikasi eform&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="430" width="215" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="808" y="240" width="215" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-2" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="339" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-3" value="&lt;span&gt;Stage 7&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="424" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="394" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="394" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-6" value="&lt;h1&gt;&amp;nbsp;Verifikasi KTP&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan proses pengecekan data permohonan ke DISDUKCAPIL&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="429" width="215" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-7" value="&lt;h1&gt;Create Rekening&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses create rekening yang sudah lolos verifikasi DHN &amp;amp; Teroris dan Verifikasi KTP&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="240" width="215" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-8" value="&lt;span&gt;Stage 8&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1519" y="339" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-9" value="&lt;span&gt;Stage 9&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1746" y="424" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1589" y="394" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="394" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-12" value="&lt;h1&gt;&amp;nbsp;Cetak Kartu&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Customer Service akan melakukan export data excel untuk cetak kartu di aplikasi eform&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="429" width="215" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-13" value="&lt;h1&gt;Konfirmasi Kartu&lt;/h1&gt;&lt;p&gt;CS akan melakukan konfirmasi/mengirim notifikasi pengambilan kartu ke pemohon&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="220" width="215" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
