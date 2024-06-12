@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T07:48:59.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZNdJhuxkiSiPWIOPJFUD" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T07:50:51.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pxnF0UjCOr6QiCsxLYLh" version="24.4.6" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="3614" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2567" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=none;swimlaneFillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry width="2940" height="1280" as="geometry" />
+          <mxGeometry width="3030" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-73">
-          <mxGeometry width="2940" height="80" as="geometry" />
+          <mxGeometry width="3030" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Flow Aplikasi Eform Bank Sumut&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-74">
-          <mxGeometry width="2940" height="80" as="geometry">
-            <mxRectangle width="2940" height="80" as="alternateBounds" />
+          <mxGeometry width="3030" height="80" as="geometry">
+            <mxRectangle width="3030" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-73">
-          <mxGeometry y="80" width="2940" height="600" as="geometry" />
+          <mxGeometry y="80" width="3030" height="600" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-76">
-          <mxGeometry width="2940" height="600" as="geometry">
-            <mxRectangle width="2940" height="600" as="alternateBounds" />
+          <mxGeometry width="3030" height="600" as="geometry">
+            <mxRectangle width="3030" height="600" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-73">
-          <mxGeometry y="680" width="2940" height="600" as="geometry" />
+          <mxGeometry y="680" width="3030" height="600" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;" vertex="1" parent="F7tV-mpWZa9fraZC_7Pp-80">
-          <mxGeometry width="2940" height="600" as="geometry">
-            <mxRectangle width="2940" height="600" as="alternateBounds" />
+          <mxGeometry width="3030" height="600" as="geometry">
+            <mxRectangle width="3030" height="600" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-26" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="467" y="1015" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-27" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-27" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="920" y="1015" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-28" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
@@ -172,10 +172,10 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-35" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="830" width="215" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-36" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-36" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1148" y="929" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-37" value="&lt;span&gt;Stage 7&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-37" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="1375" y="1014" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
@@ -190,10 +190,10 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-41" value="&lt;h1&gt;&amp;nbsp;Cetak Kartu&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Customer Service akan melakukan export data excel untuk cetak kartu di aplikasi eform&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1348" y="830" width="215" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-42" value="&lt;span&gt;Stage 8&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-42" value="&lt;span&gt;Stage 7&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1604" y="929" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-43" value="&lt;span&gt;Stage 9&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-43" value="&lt;span&gt;Stage 8&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="1831" y="1014" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-44" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
@@ -208,10 +208,10 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-47" value="&lt;h1&gt;CDD&lt;/h1&gt;&lt;p&gt;CS akan melakukan CDD saat pemohon/nasabah datang, kemudian melanjutkan ke supervisi untuk approval pembukaan rekening di aplikasi eform&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1804" y="810" width="215" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-48" value="&lt;span&gt;Stage 10&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-48" value="&lt;span&gt;Stage 9&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2055" y="930" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-49" value="&lt;span&gt;Stage 11&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-49" value="&lt;span&gt;Stage 10&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="2282" y="1015" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-50" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
@@ -229,7 +229,7 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-56" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
           <mxGeometry x="176" y="984" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-64" value="&lt;span&gt;Stage 12&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-64" value="&lt;span&gt;Stage 11&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2508" y="930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-66" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
