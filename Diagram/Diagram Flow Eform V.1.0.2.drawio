@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T02:50:01.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="twqu8e8BZN_fELj9As8X" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T03:10:03.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TRAdnpuY8hP9uweawYZ-" version="24.5.4" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1980" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Approval Pendaftaran Rekening&lt;/h1&gt;&lt;p&gt;Petugas Bank melakukan verifikasi data permohonan pembukaan rekening di web disperindag&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="454.5" y="190" width="215" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&amp;nbsp;Penarikan Data&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan penarikan data yang telah diapprove oleh petugas bank dari web disperindag ke aplikasi eform Bank Sumut&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&amp;nbsp;Penarikan Data&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan penarikan data yang telah diapprove oleh petugas bank dari web disperindag ke aplikasi eform Bank Sumut&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="215" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="908" y="250" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-2" value="&lt;span&gt;5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
@@ -82,10 +82,10 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="1460" y="404" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-6" value="&lt;h1&gt;&amp;nbsp;Verifikasi KTP&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan proses pengecekan data permohonan ke DISDUKCAPIL&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-6" value="&lt;h1&gt;&amp;nbsp;Verifikasi KTP&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan proses pengecekan data permohonan ke DISDUKCAPIL&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1135" y="439" width="215" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-7" value="&lt;h1&gt;Create Rekening&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses create rekening yang sudah lolos verifikasi DHN &amp;amp; Teroris dan Verifikasi KTP&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-7" value="&lt;h1&gt;Create Rekening&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan proses create rekening yang sudah lolos verifikasi DHN &amp;amp; Teroris dan Verifikasi KTP&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1363" y="250" width="215" height="129" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-8" value="&lt;span&gt;7&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-18" value="&lt;h1&gt;&amp;nbsp;Relasi Kartu&amp;nbsp;&lt;/h1&gt;&lt;p&gt;CS/Petugas Layanan melakukan relasi kartu di aplikasi CMS&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2042.5" y="442" width="215" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-19" value="&lt;h1&gt;Update No.Kartu&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan Inquery No.Kartu dari CMS kemudian mengirim No.Kartu Ke RSK&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-19" value="&lt;h1&gt;Update No.Kartu&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan Inquery No.Kartu dari CMS kemudian mengirim No.Kartu Ke RSK&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="250" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-20" value="&lt;h1&gt;SELESAI&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
@@ -166,10 +166,10 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-33" value="&lt;h1&gt;Approval Pendaftaran Rekening&lt;/h1&gt;&lt;p&gt;Petugas Bank melakukan verifikasi data permohonan pembukaan rekening di web Disperindag&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="439.5" y="789" width="215" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-34" value="&lt;h1&gt;&amp;nbsp;Penarikan Data&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan penarikan data yang telah diapprove oleh petugas bank dari web disperindag ke aplikasi eform Bank Sumut&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-34" value="&lt;h1&gt;&amp;nbsp;Penarikan Data&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan penarikan data yang telah diapprove oleh petugas bank dari web disperindag ke aplikasi eform Bank Sumut&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="1020" width="215" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-35" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller eform akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-35" value="&lt;h1&gt;DHN &amp;amp; Teroris&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan proses&amp;nbsp;screening data permohonan yang terindikasi DHN &amp;amp; Teroris&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="893" y="830" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-36" value="&lt;span&gt;5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-39" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="1445" y="984" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-40" value="&lt;h1&gt;&amp;nbsp;Verifikasi KTP&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem scheduller eform akan melakukan proses pengecekan data permohonan ke DISDUKCAPIL&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-40" value="&lt;h1&gt;&amp;nbsp;Verifikasi KTP&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistem Scheduller Eform Bank Sumut akan melakukan proses pengecekan data permohonan ke DISDUKCAPIL&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1019" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-41" value="&lt;h1&gt;&amp;nbsp;Cetak Kartu&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;CS akan melakukan export data excel untuk cetak kartu (emboss nama dan nopol) di aplikasi eform Bank Sumut&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-66" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="2144" y="984" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F7tV-mpWZa9fraZC_7Pp-68" value="&lt;h1&gt;Update No.Kartu&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Sistem Scheduller eform akan melakukan Inquery No.Kartu dari CMS kemudian mengirim No.Kartu Ke RSK&amp;nbsp;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="F7tV-mpWZa9fraZC_7Pp-68" value="&lt;h1&gt;Update No.Kartu&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Sistem Scheduller Eform Bank Sumut akan melakukan Inquery No.Kartu dari CMS kemudian mengirim No.Kartu Ke RSK&amp;nbsp;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2046" y="1019" width="215" height="140" as="geometry" />
         </mxCell>
         <mxCell id="F7tV-mpWZa9fraZC_7Pp-70" value="&lt;h1&gt;SELESAI&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
