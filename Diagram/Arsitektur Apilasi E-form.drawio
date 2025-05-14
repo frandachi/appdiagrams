@@ -10,7 +10,7 @@
         <mxCell id="zBEeWKywitH0Ne99eGU0-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" parent="1" vertex="1">
           <mxGeometry x="546.05" y="-840" width="64.8" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBEeWKywitH0Ne99eGU0-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dg_database_gateway;" parent="1" vertex="1">
+        <mxCell id="zBEeWKywitH0Ne99eGU0-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#76608a;strokeColor=#432D57;shape=mxgraph.alibaba_cloud.dg_database_gateway;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="714.05" y="-613" width="58.14" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBEeWKywitH0Ne99eGU0-23" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="1" vertex="1">
@@ -30,7 +30,7 @@
         <mxCell id="zBEeWKywitH0Ne99eGU0-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="29.000000000000004" y="-627" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="zBEeWKywitH0Ne99eGU0-27" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" parent="1" vertex="1">
+        <mxCell id="zBEeWKywitH0Ne99eGU0-27" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#314354;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="191.05" y="-638" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="zBEeWKywitH0Ne99eGU0-28" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="1" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="zBEeWKywitH0Ne99eGU0-46" value="SERVICE API E-FORM&lt;br&gt;192.168.3.142" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="247.05" y="-755" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zBEeWKywitH0Ne99eGU0-50" value="ARSITEKTUR APLIKASI E-FORM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zBEeWKywitH0Ne99eGU0-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ARSITEKTUR APLIKASI E-FORM&lt;/font&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-1120" width="800" height="690" as="geometry" />
         </mxCell>
       </root>
