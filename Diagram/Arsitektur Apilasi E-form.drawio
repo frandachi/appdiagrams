@@ -81,8 +81,8 @@
         <mxCell id="zBEeWKywitH0Ne99eGU0-40" value="CUSTOMER SERVICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="37.999999999999986" y="-540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zBEeWKywitH0Ne99eGU0-41" value="APP BE E-FORM&lt;br&gt;192.168.3.142" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170.05" y="-530" width="120" height="30" as="geometry" />
+        <mxCell id="zBEeWKywitH0Ne99eGU0-41" value="APLIKASI BE E-FORM&lt;br&gt;192.168.3.142" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="144" y="-533" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zBEeWKywitH0Ne99eGU0-42" value="CORE BANKING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="713.12" y="-518" width="60" height="30" as="geometry" />
