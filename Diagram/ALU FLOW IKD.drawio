@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Halaman-1" id="3jm_dhRMZ7gfXIMk6pJa">
-    <mxGraphModel dx="2444" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,11 @@
             <mxRectangle width="242" height="892" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-36" value="Mulai" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="79" y="105" width="90" height="40" as="geometry" />
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-36" value="Mulai" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="105" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-37" value="Mendaftar Permohonan Pembukaan Rekening&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="177" width="150" height="50" as="geometry" />
+          <mxGeometry x="13" y="177" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-38" value="Melakukan Verifikasi&lt;br&gt;Calon Nasabah" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="178" width="150" height="50" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="331" y="315" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-44" value="Melakukan Persetujuan Membagikan Identitas" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="260" width="160" height="160" as="geometry" />
+          <mxGeometry x="5" y="260" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-45" value="Menampilkan Data Identias Kependudukan" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="659" y="507" width="150" height="50" as="geometry" />
+          <mxGeometry x="634" y="507" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-46" value="Verifikasi Data Kependudukan" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="516" width="160" height="160" as="geometry" />
@@ -94,22 +94,22 @@
             <mxPoint x="364" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="VK1NxZ5nXOLzjg_Vbh3C-44">
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="VK1NxZ5nXOLzjg_Vbh3C-44" target="VK1NxZ5nXOLzjg_Vbh3C-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="124" y="422" as="sourcePoint" />
             <mxPoint x="734" y="504" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="124" y="477" />
-              <mxPoint x="734" y="477" />
+              <mxPoint x="85" y="477" />
+              <mxPoint x="710" y="477" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" target="VK1NxZ5nXOLzjg_Vbh3C-46">
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="VK1NxZ5nXOLzjg_Vbh3C-45" target="VK1NxZ5nXOLzjg_Vbh3C-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="734" y="552" as="sourcePoint" />
             <mxPoint x="404.0000000000002" y="655.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="734" y="595" />
+              <mxPoint x="709" y="596" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -151,8 +151,8 @@
             <mxPoint x="374" y="635" as="sourcePoint" />
             <mxPoint x="424" y="585" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="34" y="340" />
-              <mxPoint x="34" y="770" />
+              <mxPoint x="-10" y="340" />
+              <mxPoint x="-10" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
