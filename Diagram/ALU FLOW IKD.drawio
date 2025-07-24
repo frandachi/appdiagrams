@@ -165,6 +165,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-84" value="Setuju" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-85" value="Tidak Setuju" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-86" value="Sesuai" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="665" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VK1NxZ5nXOLzjg_Vbh3C-89" value="Tidak Sesuai" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
